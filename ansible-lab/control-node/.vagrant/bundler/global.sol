@@ -1,0 +1,1 @@
+{"dependencies":[["rchardet",["~> 1.8"]],["public_suffix",[">= 2.0.2","< 6.0"]],["addressable",["~> 2.8"]],["git",["= 1.18.0"]],["log4r",[">= 0"]],["concurrent-ruby",["~> 1.0"]],["i18n",[">= 0"]],["micromachine",[">= 2","< 4"]],["vagrant-vbguest",["= 0.31.0"]]],"checksum":"c201ac0ac91b89e7fe104f3a77badbe135fad20258730de5d52274ffb2003878","vagrant_version":"2.3.7"}
